@@ -1,0 +1,19 @@
+# Ambientes virtuais e cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+*.egg-info/
+
+# Jupyter / Colab / VS Code
+.ipynb_checkpoints/
+.vscode/
+
+# Arquivos temporários e bases pesadas/sensíveis
+*.tmp
+*.log
+*.csv
+*.xlsx
+!projetos/**/exemplo*
