@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Dados e Inteligência Artificial — Hype Dados / USP
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -74,5 +73,4 @@ Documentar minha evolução prática no curso, consolidar fundamentos e organiza
 Consulte [`projetos/README.md`](projetos/README.md) para ver os projetos práticos e entregas completas desenvolvidas durante a formação.
 
 ## 📌 Status
->>>>>>> a70ff7125e56d542222e21d9b10d78be65aebfb9
 Em andamento.
